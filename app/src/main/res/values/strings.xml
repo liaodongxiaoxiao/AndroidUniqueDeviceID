@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidUniqueDeviceID</string>
+    <string name="str_imei">1. IMEI</string>
+    <string name="str_pseudo_unique_id">2. Pseudo-Unique ID</string>
+    <string name="str_android_id">3. The Android ID</string>
+    <string name="str_wlan_mac_address">4. The WLAN MAC Address</string>
+    <string name="str_bt_mac_address">5. The BT MAC Address</string>
+</resources>
